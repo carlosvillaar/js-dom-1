@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.none{
+  display: none;
+}
+
+main button{
+  padding: 10px 15px;
+  border: none;
+  border-radius: 20px;
+  margin: 20px 35px;
+}
+
+images{
+  position: relative;
+}
+
+.on{
+  position: absolute;
+  left: -40px;
+}
